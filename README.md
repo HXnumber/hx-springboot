@@ -1,0 +1,3 @@
+# hx-springboot
+初学springboot搭建的项目
+运行HelloApplication这个类就可以了
