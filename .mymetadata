@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="hx-springboot"
+  id="myeclipse.1528870689834"
+  context-root="/itcast-springboot"
+  j2ee-spec="1.7"
+  archive="hx-springboot.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
